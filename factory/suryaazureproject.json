@@ -1,0 +1,9 @@
+{
+	"name": "suryaazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b78df73a-1622-4aca-993b-740df98c99c2",
+		"tenantId": "ed1cf923-2a99-4a82-9588-520635dfff04"
+	}
+}
